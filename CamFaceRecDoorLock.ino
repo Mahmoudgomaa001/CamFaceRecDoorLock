@@ -11,8 +11,8 @@
 //#define CAMERA_MODEL_M5STACK_WIDE
 #define CAMERA_MODEL_AI_THINKER
 #include "camera_pins.h"
-const char* ssid = "Galaxy-M20";
-const char* password = "ac312124";
+const char* ssid = "Connect_4G_Router";
+const char* password = "RJIS2015";
 #define LED_BUILTIN 4
 #define relay 4 
 #define buzzer 2
